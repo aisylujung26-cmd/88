@@ -1,27 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a78929f7-e12f-4858-bbf4-816282098471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/88.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01/type_strigs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02/type_collections.py" afterDir="false" />
+    <list default="true" id="a78929f7-e12f-4858-bbf4-816282098471" name="Changes" comment="Lesson2">
+      <change afterPath="$PROJECT_DIR$/lesson_03/exeptions_my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03/loops_and_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aisylujung26-cmd&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aisylujung26-cmd/88.git&quot;,
+    &quot;accountId&quot;: &quot;f99b5efd-282e-43a8-8fee-d3a3cb51b799&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000602" />
+      <entry key="S5" value="1.0000078124892893" />
+      <entry key="S10" value="1.0043089029718901" />
+      <entry key="S30" value="1.414863200229973" />
+      <entry key="S60" value="2.8201210809106074" />
+      <entry key="M2" value="6.3175359589136955" />
+      <entry key="M5" value="18.227370258210275" />
+      <entry key="M10" value="39.932473568007765" />
+      <entry key="M15" value="61.473273419210734" />
+      <entry key="M30" value="116.93563784717882" />
+      <entry key="H1" value="184.36383255762493" />
+      <entry key="H2" value="241.9705628322959" />
+      <entry key="H4" value="280.5650616904995" />
+      <entry key="D1" value="319.38757142324414" />
+      <entry key="W1" value="326.75098330616385" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.561935837395541E-117" />
+      <entry key="MS500" value="5.611063645929513E-24" />
+      <entry key="S2" value="1.5390803756992482E-6" />
+      <entry key="S5" value="0.004732638241763335" />
+      <entry key="S10" value="0.07029075949462735" />
+      <entry key="S30" value="0.5654195027135249" />
+      <entry key="S60" value="1.2677571840071784" />
+      <entry key="M2" value="2.3297158266395965" />
+      <entry key="M5" value="4.39745265472505" />
+      <entry key="M10" value="6.384939064069407" />
+      <entry key="M15" value="7.5398416908927635" />
+      <entry key="M30" value="9.387966994673215" />
+      <entry key="H1" value="11.020593907336119" />
+      <entry key="H2" value="12.257704779365232" />
+      <entry key="H4" value="13.049953102072687" />
+      <entry key="D1" value="13.829009929253276" />
+      <entry key="W1" value="13.975238128253748" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9330329915368074" />
+      <entry key="MS500" value="0.9862327044933592" />
+      <entry key="S2" value="0.9965410600582981" />
+      <entry key="S5" value="1.0022602128228613" />
+      <entry key="S10" value="1.065238849520192" />
+      <entry key="S30" value="1.9536114629631052" />
+      <entry key="S60" value="4.046198424430192" />
+      <entry key="M2" value="8.588858020732845" />
+      <entry key="M5" value="22.551628066723154" />
+      <entry key="M10" value="46.23777568968578" />
+      <entry key="M15" value="68.93407997342527" />
+      <entry key="M30" value="126.25534493781305" />
+      <entry key="H1" value="195.33504616203032" />
+      <entry key="H2" value="254.19750671310288" />
+      <entry key="H4" value="293.5976679565224" />
+      <entry key="D1" value="333.2133669959679" />
+      <entry key="W1" value="340.7257535694708" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Ij7JUKE7XMYUWEAcugHYSJfF3V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +107,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.exeptions_my.executor": "Run",
+    "Python.loops_and_function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -38,6 +117,11 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/biene/PycharmProjects/88",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -45,6 +129,62 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\biene\PycharmProjects\88" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.exeptions_my">
+    <configuration name="exeptions_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_03/exeptions_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops_and_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_03/loops_and_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exeptions_my" />
+        <item itemvalue="Python.loops_and_function" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -61,9 +201,22 @@
       <option name="presentableId" value="Default" />
       <updated>1788266051317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson2">
+      <option name="closed" value="true" />
+      <created>1788266274493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788266274493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2" />
   </component>
 </project>
