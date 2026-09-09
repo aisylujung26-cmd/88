@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a78929f7-e12f-4858-bbf4-816282098471" name="Changes" comment="Lesson2">
-      <change afterPath="$PROJECT_DIR$/lesson_03/exeptions_my.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03/loops_and_function.py" afterDir="false" />
+    <list default="true" id="a78929f7-e12f-4858-bbf4-816282098471" name="Changes" comment="Lesson4">
+      <change afterPath="$PROJECT_DIR$/commands_for_terminals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_06/test_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_05/test_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_05/tes_account.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,60 +41,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000000602" />
-      <entry key="S5" value="1.0000078124892893" />
-      <entry key="S10" value="1.0043089029718901" />
-      <entry key="S30" value="1.414863200229973" />
-      <entry key="S60" value="2.8201210809106074" />
-      <entry key="M2" value="6.3175359589136955" />
-      <entry key="M5" value="18.227370258210275" />
-      <entry key="M10" value="39.932473568007765" />
-      <entry key="M15" value="61.473273419210734" />
-      <entry key="M30" value="116.93563784717882" />
-      <entry key="H1" value="184.36383255762493" />
-      <entry key="H2" value="241.9705628322959" />
-      <entry key="H4" value="280.5650616904995" />
-      <entry key="D1" value="319.38757142324414" />
-      <entry key="W1" value="326.75098330616385" />
+      <entry key="MS500" value="1.0000012425957663" />
+      <entry key="S2" value="1.0748096937668263" />
+      <entry key="S5" value="1.8105301903386155" />
+      <entry key="S10" value="2.9692516106706077" />
+      <entry key="S30" value="5.942620125883379" />
+      <entry key="S60" value="9.084125419651965" />
+      <entry key="M2" value="14.098055493745607" />
+      <entry key="M5" value="26.96351003751677" />
+      <entry key="M10" value="44.59265529678333" />
+      <entry key="M15" value="60.61821246961827" />
+      <entry key="M30" value="105.59740975001787" />
+      <entry key="H1" value="185.08072785181216" />
+      <entry key="H2" value="288.5735307020315" />
+      <entry key="H4" value="381.49608827606306" />
+      <entry key="D1" value="529.9850339818369" />
+      <entry key="W1" value="913.4393720889966" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.561935837395541E-117" />
-      <entry key="MS500" value="5.611063645929513E-24" />
-      <entry key="S2" value="1.5390803756992482E-6" />
-      <entry key="S5" value="0.004732638241763335" />
-      <entry key="S10" value="0.07029075949462735" />
-      <entry key="S30" value="0.5654195027135249" />
-      <entry key="S60" value="1.2677571840071784" />
-      <entry key="M2" value="2.3297158266395965" />
-      <entry key="M5" value="4.39745265472505" />
-      <entry key="M10" value="6.384939064069407" />
-      <entry key="M15" value="7.5398416908927635" />
-      <entry key="M30" value="9.387966994673215" />
-      <entry key="H1" value="11.020593907336119" />
-      <entry key="H2" value="12.257704779365232" />
-      <entry key="H4" value="13.049953102072687" />
-      <entry key="D1" value="13.829009929253276" />
-      <entry key="W1" value="13.975238128253748" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1521321092727338E-107" />
+      <entry key="S2" value="1.8423645566106022E-27" />
+      <entry key="S5" value="2.023719088015794E-11" />
+      <entry key="S10" value="4.498576539324182E-6" />
+      <entry key="S30" value="0.016507895259557294" />
+      <entry key="S60" value="0.12848305626259873" />
+      <entry key="M2" value="0.3584897750615461" />
+      <entry key="M5" value="0.6857697386433012" />
+      <entry key="M10" value="1.0358009235408838" />
+      <entry key="M15" value="1.405040852599008" />
+      <entry key="M30" value="2.795013711404546" />
+      <entry key="H1" value="6.2968107287190955" />
+      <entry key="H2" value="11.53758150675724" />
+      <entry key="H4" value="16.402405661228347" />
+      <entry key="D1" value="24.10628990316156" />
+      <entry key="W1" value="42.98580191243987" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329915368074" />
-      <entry key="MS500" value="0.9862327044933592" />
-      <entry key="S2" value="0.9965410600582981" />
-      <entry key="S5" value="1.0022602128228613" />
-      <entry key="S10" value="1.065238849520192" />
-      <entry key="S30" value="1.9536114629631052" />
-      <entry key="S60" value="4.046198424430192" />
-      <entry key="M2" value="8.588858020732845" />
-      <entry key="M5" value="22.551628066723154" />
-      <entry key="M10" value="46.23777568968578" />
-      <entry key="M15" value="68.93407997342527" />
-      <entry key="M30" value="126.25534493781305" />
-      <entry key="H1" value="195.33504616203032" />
-      <entry key="H2" value="254.19750671310288" />
-      <entry key="H4" value="293.5976679565224" />
-      <entry key="D1" value="333.2133669959679" />
-      <entry key="W1" value="340.7257535694708" />
+      <entry key="MS100" value="5.672235561335408E-31" />
+      <entry key="MS500" value="1.5740275054546109E-6" />
+      <entry key="S2" value="0.08669226389520082" />
+      <entry key="S5" value="0.9470866483663506" />
+      <entry key="S10" value="2.3178239709316375" />
+      <entry key="S30" value="5.63535810942764" />
+      <entry key="S60" value="9.008536636640846" />
+      <entry key="M2" value="14.321671142203925" />
+      <entry key="M5" value="27.565650978739672" />
+      <entry key="M10" value="45.56271226150893" />
+      <entry key="M15" value="61.9620824559084" />
+      <entry key="M30" value="108.3376105082301" />
+      <entry key="H1" value="191.32949928889687" />
+      <entry key="H2" value="300.0730353469515" />
+      <entry key="H4" value="397.87283651039735" />
+      <entry key="D1" value="554.0852576614326" />
+      <entry key="W1" value="956.4236936645674" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,6 +102,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Ij7JUKE7XMYUWEAcugHYSJfF3V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -107,9 +112,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for Lesson_05.test_account.TestAccount.executor": "Run",
+    "Python tests.Python tests for Lesson_05.test_account.TestGetInitial.test_text_limit.executor": "Run",
+    "Python tests.Python tests for lesson_06.test_pytest.test_first.executor": "Run",
+    "Python tests.Python tests for lesson_06.test_pytest.test_shopping_list.executor": "Run",
+    "Python tests.Python tests for lesson_06.test_pytest.test_string.executor": "Run",
+    "Python tests.Python tests in test_account.py.executor": "Run",
+    "Python tests.Python tests in test_pytest.py.executor": "Run",
+    "Python.classes_my (1).executor": "Run",
+    "Python.classes_my.executor": "Run",
     "Python.exeptions_my.executor": "Run",
     "Python.loops_and_function.executor": "Run",
+    "Python.my_classes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -130,59 +146,99 @@
       <recent name="C:\Users\biene\PycharmProjects\88" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exeptions_my">
-    <configuration name="exeptions_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_pytest.py">
+    <configuration name="Python tests for Lesson_05.tes_account.TestGetInitial.test_text_limit" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="88" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_03/exeptions_my.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lesson_05.tes_account.TestGetInitial.test_text_limit&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="loops_and_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for lesson_06.test_pytest.test_first" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="88" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_03/loops_and_function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson_06.test_pytest.test_first&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lesson_06.test_pytest.test_shopping_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson_06.test_pytest.test_shopping_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for lesson_06.test_pytest.test_string" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson_06.test_pytest.test_string&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_pytest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="88" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lesson_06/test_pytest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exeptions_my" />
-        <item itemvalue="Python.loops_and_function" />
+        <item itemvalue="Python tests.Python tests in test_pytest.py" />
+        <item itemvalue="Python tests.Python tests for lesson_06.test_pytest.test_shopping_list" />
+        <item itemvalue="Python tests.Python tests for lesson_06.test_pytest.test_string" />
+        <item itemvalue="Python tests.Python tests for lesson_06.test_pytest.test_first" />
+        <item itemvalue="Python tests.Python tests for Lesson_05.tes_account.TestGetInitial.test_text_limit" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +265,31 @@
       <option name="project" value="LOCAL" />
       <updated>1788266274493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson3">
+      <option name="closed" value="true" />
+      <created>1788351944808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788351944808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson4">
+      <option name="closed" value="true" />
+      <created>1788438899266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788438899266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson4">
+      <option name="closed" value="true" />
+      <created>1788784148189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788784148189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +297,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2" />
+    <MESSAGE value="Lesson3" />
+    <MESSAGE value="Lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4" />
   </component>
 </project>
